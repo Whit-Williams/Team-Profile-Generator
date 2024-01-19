@@ -1,3 +1,8 @@
+// adds info from employee, intern, manager and engineer js files
+const employeeInfo = require("./lib/employeeInfo");
+
+
+
 // creates the team
 const generateTeam = team => {
 
