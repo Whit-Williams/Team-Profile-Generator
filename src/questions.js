@@ -18,7 +18,7 @@ const engineerQs = [
   {
     name: "github",
     type: "input",
-    message: "Please enter engineer's github name:",
+    message: "Please enter engineer's github username:",
   },
 ];
 // prompt questions for the interns
@@ -49,22 +49,22 @@ const managerQs = [
   {
     name: "name",
     type: "input",
-    message: "Please enter your name:",
+    message: "Please enter the team manager's name:",
   },
   {
     name: "id",
     type: "input",
-    message: "Please create an ID:",
+    message: "Please enter the team manager's ID:",
   },
   {
     name: "email",
     type: "input",
-    message: "Please enter your email address:",
+    message: "Please enter the team manager's email address:",
   },
   {
     name: "officeNumber",
     type: "input",
-    message: "Please enter your office number:",
+    message: "Please enter the team manager's office number:",
   },
 ];
 // questions for adding a team member to team array
@@ -74,7 +74,6 @@ const createTeam = [
         type: "list",
         message: "Which type of team member would you like to add?",
         choices: ["Engineer", "Intern", "I don't want to add any more team members"],
-        default: "I don't want to add any more team members"
     }
 ];
 
