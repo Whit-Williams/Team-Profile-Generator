@@ -1,0 +1,46 @@
+
+
+.jumbotron {
+    background-color: #eff3f5;
+}
+
+h1 {
+    font-family:'Poppins';
+    font-size:60px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Poppins';
+    font-size:30px;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-family: 'Poppins';
+    font-size:20px;
+    font-style: italic;
+}
+
+li {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.card {
+    border: solid 2px #503a65;
+    box-shadow: 10px 10px 5px rgba(211, 192, 255, 0.688);
+}
+
+.card-header {
+    background-color: #eff3f5;
+    text-align: center;
+}
+
+.list-group-item {
+   border: 1px solid #574f7d; 
+}
