@@ -78,9 +78,9 @@ const createPage = {
     
     writeToFile("team.html", generateHTML(teamArr)); 
     console.log(`
-      =======================
-      Team profile generated!
-      =======================
+      =====================================
+      Your team profile has been generated!
+      =====================================
       `);
   },
 };

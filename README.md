@@ -8,7 +8,7 @@ Following on from our lesson on Object Oriented Programming, I have created a Te
 
 The task for this challenge was to build an application that allows a team manager to generate a html page that displays their team's employee details. The employee details are created by answering questions prompted by Inquirer using the command line. Once the file is generated it is then saved to a folder called "output".
 
-![Screenshot image of application - ADD](./assets/images/generator-screenshot.png)
+![Screenshot image of application](./assets/images/generator-screenshot.png)
 
 
 ### Technologies
@@ -25,12 +25,9 @@ This project is created with:
 - Answers are saved to a new HTML file
 - Team member information is displayed in Boostrap card format, styled with custom CSS
 
-### How to Use This Application
-
-
 ### Credits 
--[Stack Overflow](stackoverflow.com)
-- Google Searches
+- [Stack Overflow](stackoverflow.com)
+- Google
 
 ### License 
 None

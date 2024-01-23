@@ -102,7 +102,7 @@ module.exports = team => {
     <link href="https://fonts.googleapis.com/css2?family=Anton&family=Poppins:ital,wght@0,600;0,700;0,800;0,900;1,700&family=Tilt+Warp&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../assets/style.css">
     <script src="https://kit.fontawesome.com/c502137733.js"></script>
 </head>
 
